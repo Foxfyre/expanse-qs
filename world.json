@@ -7,6 +7,7 @@
   "version": "0.9.0",
   "minimumCoreVersion": "0.8.7",
   "compatibleCoreVersion": "0.8.8",
+  "author": "Charlotte Hamilton",
   "scripts": [],
   "esmodules": [],
   "styles": [],
@@ -19,8 +20,8 @@
   "coreVersion": "0.8.7",
   "resetKeys": false,
   "safeMode": false,
-  "url": "https://github.com/Foxfyre/the_expanse",
-  "manifest": "https://raw.githubusercontent.com/Foxfyre/the_expanse/0.4.0-beta/system.json",
-  "download": "https://github.com/Foxfyre/the_expanse/releases/download/0.4.0-beta/the_expanse.zip",
+  "url": "https://github.com/Foxfyre/expanse-qs",
+  "manifest": "https://raw.githubusercontent.com/Foxfyre/expanse-qs/main/world.json",
+  "download": "https://github.com/Foxfyre/expanse-qs/releases/download/0.9.0/expanse-qs.zip",
   "license": "LICENSE.txt"
 }
