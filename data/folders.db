@@ -1,0 +1,10 @@
+{"_id":"4okIZN4ls32sEWtO","name":"NPCs","type":"Actor","parent":null,"sorting":"m","sort":100000,"color":"#2e51ff","flags":{}}
+{"_id":"KRnPpTbzCVINsD4V","name":"Adventure","type":"JournalEntry","parent":"e7161gznuE9ezT6N","sorting":"m","sort":62500,"color":"#00c732","flags":{}}
+{"_id":"QdQyKHxghAvI0dfg","name":"Pregens","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#ff6f00","flags":{}}
+{"_id":"XMAiaBQ71cBCeoPM","name":"Player Handouts","type":"JournalEntry","parent":"e7161gznuE9ezT6N","sorting":"a","sort":43750,"color":"#fd2b39","flags":{}}
+{"_id":"e7161gznuE9ezT6N","name":"Cupbearer","type":"JournalEntry","parent":"hgIzKW00d7xDtAHS","sorting":"m","sort":100000,"color":"#007bff","flags":{}}
+{"_id":"eFdg8Y7MwN6NUsUg","name":"GM Assets","type":"JournalEntry","parent":"e7161gznuE9ezT6N","sorting":"m","sort":25000,"color":"#fc47ff","flags":{}}
+{"_id":"hgIzKW00d7xDtAHS","name":"Quickstart","type":"JournalEntry","parent":null,"sorting":"m","sort":100000,"color":"#6929ff","flags":{}}
+{"name":"Talents","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#1db927","flags":{},"_id":"jFh0C0GMoJedx8qs"}
+{"name":"Weapons","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#d10000","flags":{},"_id":"mPlbN6l2zz1Wmv1q"}
+{"_id":"wg4AWwmc99Xy2HSU","name":"Quickstart Rules","type":"JournalEntry","parent":"hgIzKW00d7xDtAHS","sorting":"m","sort":0,"color":"#0091ff","flags":{}}
