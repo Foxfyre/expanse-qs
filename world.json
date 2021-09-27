@@ -2,26 +2,57 @@
   "name": "expanse-qs",
   "title": "Expanse Quickstart Module",
   "description": "<p>- This world contains The Expanse Quickstart. Inside you will find everything you need to run your first session of The Expanse - Basic Rules, Pregens, and Quickstart.</p>",
+  "author": "Charlotte Hamilton",
   "authors": [],
+  "url": "https://github.com/Foxfyre/expanse-qs",
+  "license": "LICENSE.txt",
   "flags": {},
   "version": "0.9.0",
   "minimumCoreVersion": "0.8.7",
   "compatibleCoreVersion": "0.8.8",
-  "author": "Charlotte Hamilton",
-  "scripts": [],
+  "scripts": [
+    "initialization.js"
+  ],
   "esmodules": [],
   "styles": [],
-  "languages": [ ],
-  "packs": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Journals (Quickstart)",
+      "entity": "JournalEntry",
+      "name": "journals-quickstart",
+      "path": "packs/journals-quickstart.db",
+      "system": "the_expanse",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\foxfy\\AppData\\Local\\FoundryVTT\\Data\\worlds\\expanse-qs\\packs\\journals-quickstart.db"
+    },
+    {
+      "label": "Items (Quickstart)",
+      "entity": "Item",
+      "name": "items-quickstart",
+      "path": "packs/items-quickstart.db",
+      "system": "the_expanse",
+      "package": "world",
+      "private": false
+    },
+    {
+      "label": "Actors (Quickstart)",
+      "entity": "Actor",
+      "name": "actors-quickstart",
+      "path": "packs/actors-quickstart.db",
+      "system": "the_expanse",
+      "package": "world",
+      "private": false
+    }
+  ],
   "system": "the_expanse",
   "dependencies": [],
   "socket": false,
-  "protected": false,
-  "coreVersion": "0.8.7",
-  "resetKeys": false,
-  "safeMode": false,
-  "url": "https://github.com/Foxfyre/expanse-qs",
   "manifest": "https://raw.githubusercontent.com/Foxfyre/expanse-qs/main/world.json",
   "download": "https://github.com/Foxfyre/expanse-qs/releases/download/0.9.0/expanse-qs.zip",
-  "license": "LICENSE.txt"
+  "protected": false,
+  "coreVersion": "0.8.8",
+  "resetKeys": false,
+  "safeMode": false
 }
